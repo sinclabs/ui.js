@@ -1,0 +1,15 @@
+{
+  "name": "ui.js development application",
+  "description": "ui.js development application",
+  "version": "0.0.0",
+  "main": "index.html",
+  "window": {
+    "icon": "assets/logo.png",
+    "toolbar": false,
+    "frame": false
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
